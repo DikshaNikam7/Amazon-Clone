@@ -1,2 +1,2 @@
 # Amazon-Clone
-HTML and CSS based amazon colne
+A simple Amazon landing page clone built using HTML and CSS.
